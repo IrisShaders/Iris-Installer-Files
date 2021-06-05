@@ -1,0 +1,9 @@
+{
+    "game_versions": ["1.16.5"],
+    "editions": [
+        {
+            "name": "Iris",
+            "compatible_versions": ["1.16.5"]
+        }
+    ]
+}
