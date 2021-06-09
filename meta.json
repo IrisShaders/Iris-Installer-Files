@@ -9,7 +9,7 @@
         {
             "name": "Iris-Standalone",
             "display_name": "Iris Standalone",
-            "compatible_versions": ["1.16.5", "1.17"]
+            "compatible_versions": ["1.17"]
         },
     ]
 }
