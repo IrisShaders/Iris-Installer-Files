@@ -5,11 +5,6 @@
             "name": "Iris-Sodium",
             "display_name": "Iris & Sodium",
             "compatible_versions": ["1.16.5"]
-        },
-        {
-            "name": "Starline-Iris",
-            "display_name": "Starline Iris & Sodium",
-            "compatible_versions": ["1.16.5"]
         }
     ]
 }
