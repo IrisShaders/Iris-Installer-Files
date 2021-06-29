@@ -4,12 +4,7 @@
         {
             "name": "Iris-Sodium",
             "display_name": "Iris & Sodium",
-            "compatible_versions": ["1.16.5"]
-        },
-        {
-            "name": "Iris-Standalone",
-            "display_name": "Iris Standalone",
-            "compatible_versions": ["1.17"]
-        },
+            "compatible_versions": ["1.17", "1.16.5"]
+        }
     ]
 }
