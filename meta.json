@@ -3,12 +3,12 @@
     "editions": [
         {
             "name": "Iris-Sodium-116",
-            "display_name": "Iris & Sodium",
+            "display_name": "Iris & Sodium for 1.16",
             "compatible_versions": ["1.16.5"]
         },
         {
             "name": "Iris-Sodium-117",
-            "display_name": "Iris & Sodium",
+            "display_name": "Iris & Sodium for 1.17",
             "compatible_versions": ["1.17"]
         }
     ]
