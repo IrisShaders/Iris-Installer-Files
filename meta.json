@@ -2,9 +2,14 @@
     "game_versions": ["1.17", "1.16.5"],
     "editions": [
         {
-            "name": "Iris-Sodium",
+            "name": "Iris-Sodium-116",
             "display_name": "Iris & Sodium",
-            "compatible_versions": ["1.17", "1.16.5"]
+            "compatible_versions": ["1.16.5"]
+        },
+        {
+            "name": "Iris-Sodium-117",
+            "display_name": "Iris & Sodium",
+            "compatible_versions": ["1.17"]
         }
     ]
 }
