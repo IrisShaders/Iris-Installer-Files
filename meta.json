@@ -1,5 +1,5 @@
 {
-    "game_versions": ["1.17", "1.16.5"],
+    "game_versions": ["1.17.1", "1.17", "1.16.5"],
     "editions": [
         {
             "name": "Iris-Sodium-116",
