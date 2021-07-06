@@ -9,7 +9,7 @@
         {
             "name": "Iris-Sodium-117",
             "display_name": "Iris & Sodium for 1.17",
-            "compatible_versions": ["1.17"]
+            "compatible_versions": ["1.17", "1.17.1"]
         }
     ]
 }
