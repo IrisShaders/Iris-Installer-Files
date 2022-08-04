@@ -5,6 +5,11 @@
             "name": "Iris-Sodium",
             "display_name": "Iris & Sodium",
             "compatible_versions": ["1.16.5", "1.17.1", "1.18.2", "1.19.1"]
+        },
+        {
+            "name": "Iris-Sodium-Outdated",
+            "display_name": "Iris & Sodium (Outdated Versions)",
+            "compatible_versions": ["1.19"]
         }
     ]
 }
