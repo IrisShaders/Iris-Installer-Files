@@ -1,0 +1,25 @@
+{
+    "hasBeta": true,
+    "versions": [
+        {
+            "name": "1.16.5",
+            "outdated": false
+        },
+        {
+            "name": "1.17.1",
+            "outdated": false
+        },
+        {
+            "name": "1.18.2",
+            "outdated": false
+        },
+        {
+            "name": "1.19",
+            "outdated": true
+        },
+        {
+            "name": "1.19.1",
+            "outdated": false
+        }
+    ]
+}
