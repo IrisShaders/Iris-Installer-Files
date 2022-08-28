@@ -1,6 +1,6 @@
 {
     "betaVersionSnippet": "PBR",
-    "hasBeta": true,
+    "hasBeta": false,
     "versions": [
         {
             "name": "1.16.5",
