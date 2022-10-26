@@ -4,23 +4,33 @@
     "versions": [
         {
             "name": "1.16.5",
-            "outdated": false
+            "outdated": false,
+            "snapshot": false
         },
         {
             "name": "1.17.1",
-            "outdated": true
+            "outdated": true,
+            "snapshot": false
         },
         {
             "name": "1.18.2",
-            "outdated": false
+            "outdated": false,
+            "snapshot": false
         },
         {
             "name": "1.19",
-            "outdated": true
+            "outdated": true,
+            "snapshot": false
+        },
+        {
+            "name": "22w42a",
+            "outdated": false,
+            "snapshot": true
         },
         {
             "name": "1.19.2",
-            "outdated": false
+            "outdated": false,
+            "snapshot": false
         }
     ]
 }
