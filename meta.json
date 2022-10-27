@@ -1,10 +1,10 @@
 {
-    "game_versions": ["22w42a", "1.16.5", "1.17.1", "1.18.2", "1.19", "1.19.2"],
+    "game_versions": ["22w43a", "1.16.5", "1.17.1", "1.18.2", "1.19", "1.19.2"],
     "editions": [
         {
             "name": "Iris-Sodium",
             "display_name": "Iris/Sodium",
-            "compatible_versions": ["22w42a", "1.16.5", "1.18.2", "1.19.2"]
+            "compatible_versions": ["22w43a", "1.16.5", "1.18.2", "1.19.2"]
         },
         {
             "name": "Iris-Sodium-Outdated",
