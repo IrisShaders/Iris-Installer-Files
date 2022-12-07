@@ -1,5 +1,5 @@
 {
-    "betaVersionSnippet": "PBR",
+    "betaVersionSnippet": "Custom Uniforms",
     "hasBeta": false,
     "versions": [
         {
@@ -23,12 +23,12 @@
             "snapshot": false
         },
         {
-            "name": "1.19.3-pre2",
+            "name": "1.19.2",
             "outdated": false,
-            "snapshot": true
+            "snapshot": false
         },
         {
-            "name": "1.19.2",
+            "name": "1.19.3",
             "outdated": false,
             "snapshot": false
         }
