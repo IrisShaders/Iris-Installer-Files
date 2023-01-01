@@ -4,7 +4,7 @@
     "versions": [
         {
             "name": "1.16.5",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false
         },
         {
