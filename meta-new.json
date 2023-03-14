@@ -31,6 +31,11 @@
             "name": "1.19.3",
             "outdated": false,
             "snapshot": false
+        },
+        {
+            "name": "1.19.4a",
+            "outdated": false,
+            "snapshot": false
         }
     ]
 }
