@@ -33,12 +33,12 @@
             "snapshot": false
         },
         {
-            "name": "1.20-rc1",
+            "name": "1.19.4",
             "outdated": false,
-            "snapshot": true
+            "snapshot": false
         },
         {
-            "name": "1.19.4",
+            "name": "1.20",
             "outdated": false,
             "snapshot": false
         }
