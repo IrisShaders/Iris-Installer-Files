@@ -41,6 +41,11 @@
             "name": "1.20.1",
             "outdated": false,
             "snapshot": false
+        },
+        {
+            "name": "1.20.2",
+            "outdated": false,
+            "snapshot": false
         }
     ]
 }
