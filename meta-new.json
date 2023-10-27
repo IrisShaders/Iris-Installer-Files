@@ -43,6 +43,11 @@
             "snapshot": false
         },
         {
+            "name": "23w43b",
+            "outdated": false,
+            "snapshot": true
+        },
+        {
             "name": "1.20.2",
             "outdated": false,
             "snapshot": false
