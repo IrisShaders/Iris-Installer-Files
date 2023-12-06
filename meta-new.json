@@ -43,12 +43,12 @@
             "snapshot": false
         },
         {
-            "name": "1.20.3-pre2",
+            "name": "1.20.2",
             "outdated": false,
-            "snapshot": true
+            "snapshot": false
         },
         {
-            "name": "1.20.2",
+            "name": "1.20.3",
             "outdated": false,
             "snapshot": false
         }
