@@ -5,52 +5,62 @@
         {
             "name": "1.16.5",
             "outdated": true,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.17.1",
             "outdated": true,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.18.2",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.19",
             "outdated": true,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.19.2",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.19.3",
             "outdated": true,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.19.4",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.20.1",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.20.2",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         },
         {
             "name": "1.20.4",
             "outdated": false,
-            "snapshot": false
+            "snapshot": false,
+            "hasBeta": false
         }
     ]
 }
