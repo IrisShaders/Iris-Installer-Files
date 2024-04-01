@@ -61,6 +61,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": true
+        },
+        {
+            "name": "24w14potato",
+            "outdated": false,
+            "snapshot": true,
+            "hasBeta": false
         }
     ]
 }
