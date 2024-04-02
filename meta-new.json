@@ -3,6 +3,12 @@
     "hasBeta": false,
     "versions": [
         {
+            "name": "24w14potato",
+            "outdated": false,
+            "snapshot": true,
+            "hasBeta": false
+        },
+        {
             "name": "1.16.5",
             "outdated": true,
             "snapshot": false,
@@ -61,12 +67,6 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": true
-        },
-        {
-            "name": "24w14potato",
-            "outdated": false,
-            "snapshot": true,
-            "hasBeta": false
         }
     ]
 }
