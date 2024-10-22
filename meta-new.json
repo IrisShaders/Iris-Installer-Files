@@ -73,6 +73,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": false
+        },
+        {
+            "name": "1.21.2",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
         }
     ]
 }
