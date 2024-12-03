@@ -79,6 +79,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": false
+        },
+        {
+            "name": "1.21.4",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
         }
     ]
 }
