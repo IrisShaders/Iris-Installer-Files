@@ -46,7 +46,7 @@
         },
         {
             "name": "1.20.1",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
@@ -58,13 +58,13 @@
         },
         {
             "name": "1.20.4",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
         {
             "name": "1.20.6",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
@@ -76,19 +76,19 @@
         },
         {
             "name": "1.21.3",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
         {
             "name": "1.21.4",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
         {
             "name": "1.21.5",
-            "outdated": false,
+            "outdated": true,
             "snapshot": false,
             "hasBeta": false
         },
@@ -96,6 +96,12 @@
             "name": "1.21.8",
             "outdated": false,
             "snapshot": false,
+            "hasBeta": false
+        },
+        {
+            "name": "1.21.9",
+            "outdated": false,
+            "snapshot": true,
             "hasBeta": false
         }
     ]
