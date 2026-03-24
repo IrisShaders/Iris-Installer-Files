@@ -109,6 +109,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": false
+        },
+        {
+            "name": "26.1",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
         }
         
     ]
