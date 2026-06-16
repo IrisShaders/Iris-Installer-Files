@@ -115,6 +115,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": false
+        },
+        {
+            "name": "26.2",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
         }
         
     ]
