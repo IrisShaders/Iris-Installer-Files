@@ -121,6 +121,12 @@
             "outdated": false,
             "snapshot": false,
             "hasBeta": false
+        },
+        {
+            "name": "26.3",
+            "outdated": false,
+            "snapshot": false,
+            "hasBeta": false
         }
         
     ]
